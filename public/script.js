@@ -1,0 +1,1 @@
+console.log("AWS CI/CD Demo frontend loaded successfully.");
